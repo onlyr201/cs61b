@@ -1,2 +1,2 @@
-# cd61b
-cd61b sp21
+# cs61b
+cs61b sp21
